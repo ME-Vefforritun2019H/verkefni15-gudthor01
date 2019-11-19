@@ -1,27 +1,27 @@
 # vfor1Verk15
 Javascript föll, aðferðir og hlutir (objects) 
 
-1.  Vinnið  HTML skjalinu
-1.1 Setjið inn title og tengingu við CSS skjalið
-1.2 Setjið strenginn "TravelWorthy" í heading 1
-1.3 Setjið upp div með id "info"
-1.3.1 Setjið strenginn "latest hotel offer" í heading 2
-1.3.2 Setjið upp div tagg með id "hotelName"
-1.3.3 Setjið upp div tagg með id "roomRate"
-1.3.4 Setjið upp div tagg með id "specialRate"
-1.3.5 Setjið strenginn "room rate when you book 2 or more nights" í p tagg
-1.3.6 Setjði upp div tagg með id "offerEnds"
-1.4 Setjið upp tengingu við javascript skjalið.
+b1.  Vinnið  HTML skjalinu
+b1.1 Setjið inn title og tengingu við CSS skjalið
+b1.2 Setjið strenginn "TravelWorthy" í heading 1
+b1.3 Setjið upp div með id "info"
+b1.3.1 Setjið strenginn "latest hotel offer" í heading 2
+b1.3.2 Setjið upp div tagg með id "hotelName"
+b1.3.3 Setjið upp div tagg með id "roomRate"
+b1.3.4 Setjið upp div tagg með id "specialRate"
+b1.3.5 Setjið strenginn "room rate when you book 2 or more nights" í p tagg
+b1.3.6 Setjði upp div tagg með id "offerEnds"
+b1.4 Setjið upp tengingu við javascript skjalið.
 
-2.  Vinnið í CSS skjalinu
-2.1 Importið reglum fyrir Open Sans, gert svona: @import url(http://fonts.googleapis.com/css?family=Open+Sans);
-2.2 Hafið áhrif á body
-2.2.1   Setjið inn bakgrunnslitinn #fff
-2.2.2   Setjið inn bakgrunn með myndinni travelworthy-backdrop svona: 
+b2.  Vinnið í CSS skjalinu
+b2.1 Importið reglum fyrir Open Sans, gert svona: @import url(http://fonts.googleapis.com/css?family=Open+Sans);
+b2.2 Hafið áhrif á body
+b2.2.1   Setjið inn bakgrunnslitinn #fff
+b2.2.2   Setjið inn bakgrunn með myndinni travelworthy-backdrop svona: 
         background: url("images/travelworthy-backdrop.jpg") no-repeat center center fixed;
-2.2.3   Setjið bakgrunnsstærðina í cover
-2.2.4   Setjið margin í 0
-2.2.5   Setjið á leturtýpurnar "Open Sans" og svo sans-serif
+b2.2.3   Setjið bakgrunnsstærðina í cover
+b2.2.4   Setjið margin í 0
+b2.2.5   Setjið á leturtýpurnar "Open Sans" og svo sans-serif
 
 2.3 Hafið áhrif á h1
 2.3.1   Setjið inn bakgrunn með myndinni travelworthy-logo svona: background: #1e1b1e url("images/travelworthy-logo.gif") no-repeat;
@@ -33,30 +33,30 @@ Javascript föll, aðferðir og hlutir (objects)
 2.3.7   Stillið overflow í hidden
 2.3.8   Setjið margin í 0
 
-2.4 Hafið áhrif á h2
-2.4.1   Stillið margin í 1.75 em, 0, 0 ,0
-2.4.2   Stillið litin á letri í #adffda
-2.4.3   Setjið font weight í normal
+b2.4 Hafið áhrif á h2
+b2.4.1   Stillið margin í 1.75 em, 0, 0 ,0
+b2.4.2   Stillið litin á letri í #adffda
+b2.4.3   Setjið font weight í normal
 
-2.5 Hafið áhrif á id info
-2.5.1   Setjið bakgrunnslit í #1e1b1e
-2.5.2   Setjið letur lit í #fff
-2.5.3   Setjið breiddina í 200 pixla
-2.5.4   Setjið padding í topp og botn 0 og svo hægri og vinstri í 15 pixla
-2.5.5   Miðjið textann
-2.5.6   Setjið lágmarkshæð í 100%
-2.5.7   Setjið staðsetningu í absolute
-2.5.8   Setjið top í 0
-2.5.9   Setjið right í 15%
+b2.5 Hafið áhrif á id info
+b2.5.1   Setjið bakgrunnslit í #1e1b1e
+b2.5.2   Setjið letur lit í #fff
+bb2.5.3   Setjið breiddina í 200 pixla
+bb2.5.4   Setjið padding í topp og botn 0 og svo hægri og vinstri í 15 pixla
+b2.5.5   Miðjið textann
+b2.5.6   Setjið lágmarkshæð í 100%
+b2.5.7   Setjið staðsetningu í absolute
+b2.5.8   Setjið top í 0
+b2.5.9   Setjið right í 15%
 
 2.6 Hafið áhrif á id hotelName
-2.6.1   Setjið allan texta í hástafi
-2.6.2   Miðjið textann
-2.6.3   Setjið stærðina á letrinu í 120%
-2.6.4   Setjið margin top í 10 pixla
-2.6.5   Setjið border top í 1px breidd, solid týpuna og litinn #fff
-2.6.6   Setjið border botn í 1 pixla breidd, solid týpuna og litinn #fff
-2.6.7   Setjið padding í topp og botn 10 pixla og hægri og vinstri í 0
+b2.6.1   Setjið allan texta í hástafi
+b2.6.2   Miðjið textann
+b2.6.3   Setjið stærðina á letrinu í 120%
+b2.6.4   Setjið margin top í 10 pixla
+b2.6.5   Setjið border top í 1px breidd, solid týpuna og litinn #fff
+b2.6.6   Setjið border botn í 1 pixla breidd, solid týpuna og litinn #fff
+b2.6.7   Setjið padding í topp og botn 10 pixla og hægri og vinstri í 0
 
 2.7 Hafið áhrif á id roomRate
 2.7.1   Setjið línu yfirstrikun á með text-decuration line through
@@ -87,9 +87,9 @@ Javascript föll, aðferðir og hlutir (objects)
 
 3.2 Skilgreinið breyturnar hotelName, roomRate og specialRate
 
-3.3 Setjið elementið með id "hotelName" í breytuna hotelName
-3.4 Setjið elementið með id "roomRate" í breytuna roomRate
-3.5 Setjið elementið með id "specialRate" í breytuna specialRate
+b3.3 Setjið elementið með id "hotelName" í breytuna hotelName
+b3.4 Setjið elementið með id "roomRate" í breytuna roomRate
+b3.5 Setjið elementið með id "specialRate" í breytuna specialRate
 
 3.6 Breytið textanum inní elementinu hotelName í gildið inní property name úr objectinu hotel
 3.7 Breytið textanum inní elementinu roomRate í strenginn "$" og í gildið property roomRate úr objectinu hotel 
